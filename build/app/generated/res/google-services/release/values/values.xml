@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">444858262406-oed2776mrdt8li1kg7ati20ot1ck5uev.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">444858262406</string>
+    <string name="google_api_key" translatable="false">AIzaSyBC91PLGnkAVIIvWXEeCnCesSIDBUyO5bg</string>
+    <string name="google_app_id" translatable="false">1:444858262406:android:cbbfb5b03b401bddec4207</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBC91PLGnkAVIIvWXEeCnCesSIDBUyO5bg</string>
+    <string name="google_storage_bucket" translatable="false">bwa-cozy-e4bb8.appspot.com</string>
+    <string name="project_id" translatable="false">bwa-cozy-e4bb8</string>
+</resources>
